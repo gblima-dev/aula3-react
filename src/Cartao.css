@@ -1,0 +1,23 @@
+.cartao {
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 420px;
+    margin: 15px 0;
+    background-color: #f9f9f9;
+}
+
+.cartao h3 {
+    color: #01696F;
+    margin-top: 0;
+}
+
+.cartao li.destaque {
+    font-weight: bold;
+    color: #1E2A2E;
+}
+
+.status-feedback {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
